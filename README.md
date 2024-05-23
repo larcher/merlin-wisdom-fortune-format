@@ -8,6 +8,12 @@ It's only advice for you because it **had** to be advice for me.
 
 ([Link to this project](https://github.com/merlinmann/wisdom))
 
+
+----
+
+If you want to use this with `fortune(6)`, run the script `convert.sh` and
+copy the files somewhere `fortune` can find them.
+
 ----
 
 On to [**the Wisdom »**](wisdom.md)
