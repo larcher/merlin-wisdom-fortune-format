@@ -1,11 +1,14 @@
 ---
 Author: Merlin Mann
 ---
-
 <!-- hello, world 2022-10-11 -->
-<!-- hi again 2023-08-17 -->
+<!-- hi again 2024-06-13 -->
+<!-- still here 2025-07-07 -->
 
 # Merlin's Wisdom Project
+
+![Your Author](/i/cover.jpg)
+
 
 Or: “*Everybody likes being given a glass of water*.”
 
@@ -72,6 +75,7 @@ Brief introductory remarks regarding the Project:
 - These are ideas that I have believed to be true for myself at the time of composition. They are not immutable truths about The Universe, and I am open to changing my mind about any of them at any time.
 - Ideas appended with a “thanks" are wisdoms that I gratefully learned from that credited person—often many years ago. They are not “submissions.” Because, alas, I am not *Reader’s Digest*.
 - If you believe that it is possible to grow without change, you are probably neither growing nor changing.
+- Wisdom is not a headline.
 - Bulleted lists are a useful way to collect items that are either unrelated or may not benefit from being puffed into actual fancy prose. <!-- HELLO Also, embedded comments are good for saying hello to curious geeks. Hello. Welcome! -->
 - None of the ideas should be interpreted as actual advice of any kind or for any purpose, and, thus, the Project is provided *as-is*.
 - You should *not* rely upon this Project or its constituent ideas for *any purpose* without seeking legal, medical, emotional, spiritual, and/or directed career counseling.
@@ -471,7 +475,7 @@ Brief introductory remarks regarding the Project:
 - Relatedly related: remember to hunt for mislaid items in places where they aren't supposed to be. If a thing was where it's *supposed* to be, then you wouldn't still be looking for it, would you?
 - If I were to pitch somebody on my favorite bit I’ve picked up from mindfulness, I’d suggest starting to frequently notice how you feel about how you feel.
 - Related: if you don't think you sometimes have *big* feelings about how you feel, please permit me to gently recommend your looking into mindfulness.
-- Get a thin, lightweight rain jacket. Roll it up into a tight and tiny little burrito, secure it with a couple silicon/rubber bands, and just leave it in your backpack. Because no matter how much it's not raining right now, chances are it will rain again someday.
+- Get a thin, lightweight rain jacket. Roll it up into a tight and tiny little burrito, secure it with a couple silicone/rubber bands, and just leave it in your backpack. Because no matter how much it's not raining right now, chances are it will rain again someday.
 - Unrelated: responsible project management is the art of calmly preparing for things that aren't happening right now. A manic dash to survive something that's already happening (and which you probably should have anticipated) is not generally regarded as a skillful application of the art.
 - Relatedly unrelated: the use of a rain umbrella should require roughly the same formal testing and certification as an automobile license. If you are in public and using an umbrella irresponsibly, you should lose your privileges. It is not your personal weather sword, and it makes you just *so* much broader and pointier than you realize. Maybe just get a rain jacket.
 - If you can't be a good example, at least try to become an interesting cautionary tale.
@@ -503,6 +507,35 @@ Brief introductory remarks regarding the Project:
 
 ----
 
+- If you want to know what someone really thinks, ask them what they think other people really think. Then, ask how they know what other people really think.
+
+- Every few minutes, try to do something skillful.
+
+- Once you learn something, you can always relearn it. Unless it's something you only *think* you learned. You can't really relearn something you only think you learned.
+
+- Related: Minimize relationships with the sort of person you've learned you really shouldn't have a relationship with.
+
+----
+
+- Avoid saying things you don’t want to be judged about. You’re already being judged for a shit-ton of things you don’t control, so be cautious about deliberately generating new material.
+- Most of the easy problems have been solved. If a problem still exists, it's probably because it's either a *really* hard problem, or it's not actually a problem.
+- Never brag about your weather. You had no agency in creating it and deserve no credit for living in it.
+- Lean away from self-pity. Self-pity is also self-basting. Which is gross.
+- When you get hit with a sock full of coins, it doesn’t really matter that much whether they're pennies or quarters.
+
+----
+
+- Life is a tile puzzle. You're often going to need to move some around a bunch of stuff that seems completely unrelated to your theoretical goal. At least at first it will seem completely unrelated.
+- Avoid using your hand as a tool. Almost always prefer to use your hand to *manipulate* an appropriate tool. You're going to need your hand for other things.
+- Nearly everything that happens in the world doesn't involve you. How often do you think about this?
+- Your photos will get more interesting once you've learned to lie prone on the ground for a surprisingly long time.
+- Sometimes we make things to teach, but often we make things to learn.
+- When you’re trying to help someone, focus on the help that the person needs rather than the help you feel like giving them.
+- At least twice a day, focus on doing something very skillfully.
+- It's not laws that protect you; it's people observing laws that protects you.
+
+----
+
 ## Works Cited
 
 <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
@@ -522,6 +555,6 @@ Brief introductory remarks regarding the Project:
 
 ## About the Author
 
-[**Merlin Mann**](http://hotdogsladies.omg.lol "Merlin's current place for places") is a podcaster and retired project manager who lives in San Francisco. He has [a bearded dragon](https://twitter.com/bandomanndo "Bando is a very good boy") and [other things](http://unwilling.horse "Merlin's Other Things").
+[**Merlin Mann**](http://hotdogsladies.omg.lol "Merlin's current place for places") is a podcaster and retired project manager who lives in San Francisco.
 
 ![Your Author (detail)](/i/MANN-angry-2500.jpg "Your Author")
